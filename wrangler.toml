@@ -1,8 +1,8 @@
-name = "v20251104"
+name = "old-paper-bfb4"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
-#[[kv_namespaces]]
-#binding = "KV"			#KV绑定名默认不可修改
-#id = ""				#KV数据库id
+[[kv_namespaces]]
+binding = "KV"			#KV绑定名默认不可修改
+id = "d49ed00bca5a4d2d8e2fef4925c92d23"				#KV数据库id
